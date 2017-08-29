@@ -1,0 +1,9 @@
+.container{
+    padding-top: 50px;
+}
+
+.container ul li {
+    border-bottom: 1px solid #777;
+    list-style-type: none;
+    padding: 5px 0px;
+}
